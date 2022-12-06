@@ -4,6 +4,13 @@
 
 The goal was to creat a working web page and clean up css code. Fixed the link at top and correctly alligned. Consolidated css codes where repeated. 
 
+## Useage
+![deployed page](./assets/images/deployed-page.png)
+
+github repo: https://github.com/EarlofSmith/challenge-1
+
+deployed page: https://earlofsmith.github.io/challenge-1/
+
 ## License
  MIT License
 
